@@ -19,7 +19,7 @@ Step 2:-
 
 
 
-      You will find the trained model file which have accuracy of 70%
+      You will find the trained model named facial_classifier.h5 file which have accuracy of 70%
 
 
 
